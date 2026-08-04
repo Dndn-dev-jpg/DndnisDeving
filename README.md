@@ -1,2 +1,2 @@
-# DndnisDeving
-My beginner projects in python
+#   python-mooc-exercises
+My beginner projects in python using MOOC exercices 
